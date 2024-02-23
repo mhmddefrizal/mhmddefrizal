@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Let me introduce myself, my name is Muhammad Defrizal from the Informatics study program, at Indonesian Teknorat University. I am 18 years old and live in Bandar Lampung, Indonesia. I want to become a full-stack developer
+Let me introduce myself, my name is Muhammad Defrizal from the Informatics study program, at Indonesian Teknokrat University. I am 18 years old and live in Bandar Lampung, Indonesia. I want to become a full-stack developer
 
 
 About me:
